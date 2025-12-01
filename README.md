@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Shubhang Chaturvedi
 
-<!--
-**ShubhangChaturvedi/ShubhangChaturvedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grade 12 CBSE • UAE 🇦🇪 
 
-Here are some ideas to get you started:
+Building real-world AI & full-stack tools for education and accessibility.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Live projects  
+→ SafeStudent – School safety & emergency platform  
+→ EmiratesExplorer – AI-powered UAE tourism guide 
+→ Buddy – Student productivity assistant (in development)
+→ SignSync ASL – Real-time sign language translator (capstone)
+
+🌱 Passionate about AI for Social Good, Sustainability & Robotics  
+
+Open to research & internship opportunities → feel free to connect!
