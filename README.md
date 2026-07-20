@@ -1,6 +1,6 @@
 # Hi 👋 I'm Shubhang Chaturvedi
 
-Grade 12 CBSE • UAE 🇦🇪 
+Pursuing B.Tech CSE (AI & ML Speciallization) @ VIT Vellore • UAE & IND 
 
 Building real-world AI & full-stack tools for education and accessibility.
 
